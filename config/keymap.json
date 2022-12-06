@@ -2,12 +2,7 @@
   "keyboard": "adv360",
   "keymap": "default",
   "layout": "LAYOUT",
-  "layer_names": [
-    "base",
-    "keypad",
-    "fn",
-    "mod"
-  ],
+  "layer_names": ["base", "keypad", "fn", "mod"],
   "layers": [
     [
       "&kp EQUAL ",
@@ -171,8 +166,8 @@
       "&trans    ",
       "&trans    ",
       "&kp KP_N0                    ",
-      "&kp UP     ",
-      "&kp DOWN     ",
+      "&trans     ",
+      "&trans       ",
       "&kp KP_DOT    ",
       "&trans          ",
       "&trans"
@@ -347,3 +342,4 @@
     ]
   ]
 }
+
